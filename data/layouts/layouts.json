@@ -4430,6 +4430,56 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route1/border.bin",
       "blockdata_filepath": "data/layouts/Route1/map.bin"
+    },
+    {
+      "id": "LAYOUT_OUTSET_SPRINGS_PLAYER_HOUSE_1F",
+      "name": "OutsetSprings_PlayerHouse_1F_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/OutsetSprings_PlayerHouse_1F/border.bin",
+      "blockdata_filepath": "data/layouts/OutsetSprings_PlayerHouse_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP1",
+      "name": "NewMap1_Layout",
+      "width": 35,
+      "height": 35,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mossdeep",
+      "border_filepath": "data/layouts/NewMap1/border.bin",
+      "blockdata_filepath": "data/layouts/NewMap1/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP2",
+      "name": "NewMap2_Layout",
+      "width": 70,
+      "height": 15,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/NewMap2/border.bin",
+      "blockdata_filepath": "data/layouts/NewMap2/map.bin"
+    },
+    {
+      "id": "LAYOUT_OUTSET_SPRINGS_PLAYER_HOUSE_2F",
+      "name": "OutsetSprings_PlayerHouse_2F_Layout",
+      "width": 8,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/OutsetSprings_PlayerHouse_2F/border.bin",
+      "blockdata_filepath": "data/layouts/OutsetSprings_PlayerHouse_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_OUTSET_SPRINGS_SHED",
+      "name": "OutsetSprings_Shed_Layout",
+      "width": 5,
+      "height": 5,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/OutsetSprings_Shed/border.bin",
+      "blockdata_filepath": "data/layouts/OutsetSprings_Shed/map.bin"
     }
   ]
 }

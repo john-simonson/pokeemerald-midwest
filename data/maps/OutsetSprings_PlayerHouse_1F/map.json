@@ -1,8 +1,8 @@
 {
-  "id": "MAP_OUTSET_SPRINGS_OUTSIDE",
-  "name": "OutsetSpringsOutside",
-  "layout": "LAYOUT_OUTSET_SPRINGS_OUTSIDE",
-  "music": "MUS_RG_PALLET",
+  "id": "MAP_OUTSET_SPRINGS_PLAYER_HOUSE_1F",
+  "name": "OutsetSprings_PlayerHouse_1F",
+  "layout": "LAYOUT_OUTSET_SPRINGS_PLAYER_HOUSE_1F",
+  "music": "MUS_RG_FUCHSIA",
   "region_map_section": "MAPSEC_OUTSET_SPRINGS",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
@@ -12,30 +12,31 @@
   "allow_running": false,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": [
-    {
-      "map": "MAP_ROUTE1",
-      "offset": -81,
-      "direction": "right"
-    }
-  ],
+  "connections": 0,
   "object_events": [
 
   ],
   "warp_events": [
     {
-      "x": 7,
-      "y": 6,
+      "x": 12,
+      "y": 9,
       "elevation": 0,
       "dest_map": "MAP_OUTSET_SPRINGS_OUTSIDE",
       "dest_warp_id": "0"
     },
     {
-      "x": 17,
-      "y": 6,
+      "x": 13,
+      "y": 9,
       "elevation": 0,
       "dest_map": "MAP_OUTSET_SPRINGS_OUTSIDE",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "elevation": 0,
+      "dest_map": "MAP_OUTSET_SPRINGS_PLAYER_HOUSE_2F",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [

@@ -1071,3 +1071,13 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/Route1/scripts.inc"
 
 	.include "data/maps/OutsetSpringsOutside/scripts.inc"
+
+	.include "data/maps/OutsetSprings_PlayerHouse_1F/scripts.inc"
+
+	.include "data/maps/NewMap1/scripts.inc"
+
+	.include "data/maps/NewMap2/scripts.inc"
+
+	.include "data/maps/OutsetSprings_PlayerHouse_2F/scripts.inc"
+
+	.include "data/maps/OutsetSprings_Shed/scripts.inc"

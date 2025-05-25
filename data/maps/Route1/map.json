@@ -17,6 +17,16 @@
       "map": "MAP_OUTSET_SPRINGS_OUTSIDE",
       "offset": 81,
       "direction": "left"
+    },
+    {
+      "map": "MAP_NEW_MAP1",
+      "offset": -28,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_NEW_MAP2",
+      "offset": 58,
+      "direction": "right"
     }
   ],
   "object_events": [
